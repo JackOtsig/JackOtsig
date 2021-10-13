@@ -1,12 +1,58 @@
-<h5>Hello! my name is<h5>
-<h3>Jackson Otsig</h3>
+<h5>
+  Hello! my name is
+</h5>
+<h3>
+  Jackson Otsig
+</h3>
+
+
+<h4>
+  STATS
+</h4>
 <p>
-I am a 21 year old male from the greater Vancouver area Canada.<br>
-I am unemployed.<br>
-At any given time I am either playing video games, programming something that has to do with video games, or out riding my bike.<br>
-I know Python and am learning Solidity.<br>
+  
+  > age : 21 <br>
+  > gender : male <br>
+  > pronouns : was/will be <br>
+  > location : vancouver <br>
+  > status : unemployed <br>
+  
 </p>
+<h4>
+  LANGUAGES
+</h4>
+<p>
+  Mastered:
+  
+  >
+  
+  Known:
+  
+  > Python
+  
+  Learning/Knew:
+  
+  > Solidity, Batch
+  
+  </p>
+  
+
+<p>
+  "
+  <em>
+    Strange things are afoot at the circle k
+  </em>
+  "
+</p>
+
+
 <p>
 Reach me at ...<br>
-  ~<em><strong>the astral plane</strong></em>~<br>
+  ~
+  <em>
+    <strong>
+      the astral plane
+    </strong>
+  </em>
+  ~<br>
 </p>
