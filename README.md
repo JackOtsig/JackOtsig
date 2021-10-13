@@ -2,7 +2,8 @@
 <h3>Jackson Otsig</h3>
 <p>
 I am a 21 year old male from the greater Vancouver area Canada.<br>
-I am unemployed. I am either playing video games, programming something that has to do with video games, or out riding my bike.<br>
+I am unemployed.<br>
+At any given time I am either playing video games, programming something that has to do with video games, or out riding my bike.<br>
 I know Python and am learning Solidity.<br>
 </p>
 <p>
