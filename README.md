@@ -40,7 +40,7 @@
 <p>
   "
   <em>
-    Strange things are afoot at the circle k
+    Kill The Mind
   </em>
   "
 </p>
@@ -51,7 +51,7 @@ Reach me at ...<br>
   ~
   <em>
     <strong>
-      the astral plane
+      Skargash#9091
     </strong>
   </em>
   ~<br>
