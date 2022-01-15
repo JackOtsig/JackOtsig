@@ -32,7 +32,7 @@
   
   Learning/Knew:
   
-  > Solidity, Batch
+  > Solidity, Batch, Bootstrap CSS
   
   </p>
   
