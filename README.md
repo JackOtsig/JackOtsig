@@ -6,14 +6,10 @@
 </h3>
 
 
-<h4>
-  STATS
-</h4>
 <p>
   
   > age : 21 <br>
   > gender : male <br>
-  > pronouns : was/will be <br>
   > location : vancouver <br>
   > status : unemployed <br>
   
@@ -22,37 +18,9 @@
   LANGUAGES
 </h4>
 <p>
-  Mastered:
-  
-  >
-  
-  Known:
-  
   > Python
   
-  Learning/Knew:
-  
-  > Solidity, Batch, Bootstrap CSS
+
   
   </p>
-  
 
-<p>
-  "
-  <em>
-    Kill The Mind
-  </em>
-  "
-</p>
-
-
-<p>
-Reach me at ...<br>
-  ~
-  <em>
-    <strong>
-      spontaneous human combustion
-    </strong>
-  </em>
-  ~<br>
-</p>
